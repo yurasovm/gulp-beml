@@ -13,7 +13,7 @@
     "test": "test"
   },
   "dependencies": {
-    "beml": "^1.0.0",
+    "beml": "1.2.3",
     "map-stream": "^0.1.0"
   },
   "devDependencies": {
